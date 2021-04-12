@@ -1,4 +1,4 @@
-# Install Ubiquiti Unifi Controller on Ubuntu 20.04.
+# Unifi Controller on Ubuntu 20.04.
 sudo apt update
 sudo apt install --yes apt-transport-https
 
@@ -11,4 +11,4 @@ sudo apt clean
 
 sudo systemctl status --no-pager --full mongodb.service unifi.service
 
-# Now log into https://unifi_controller_hostname:8443/
+# Go to: https://unifi_controller_hostname:8443/
