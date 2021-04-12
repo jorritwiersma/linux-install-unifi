@@ -1,2 +1,2 @@
 # linux-install-unifi
-Tested on Ubuntu 20.04.1-live-server-amd64
+Simple and easy install script for a Unifi controllers build on Ubuntu 20.04
